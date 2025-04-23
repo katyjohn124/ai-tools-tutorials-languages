@@ -12,3 +12,6 @@ ASU⼤学官⽅⽹址：https://ulc.asu.edu/
 
 三、实操部分 
 （⼀）、打开我上⾯提到的asu ⽹址，下滑到get started, 点击进⼊弹窗提⽰，选择第⼆个（如图所⽰）；选择new users。打开后会看到让你填写个⼈信息的界⾯。
+
+![image](https://github.com/user-attachments/assets/d48b7395-af4a-4e47-849b-21f96230959b)
+
