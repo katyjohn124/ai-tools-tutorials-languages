@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="u2CXjJ6KbfffTYuEP2pE0NdE0PhuIRswGefPYxSgpms" />
-
 # AI 工具、技术教程与语言分享
 
 欢迎来到我的个人知识分享库！在这里，我主要分享以下几个方面的内容：
