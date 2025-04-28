@@ -1,5 +1,8 @@
+theme: minima
 markdown: kramdown
 permalink: /:title/
+baseurl: "/ai-tools-tutorials-languages"
+url: "https://katyjohn124.github.io"
 plugins:
   - jekyll-relative-links
 relative_links:
