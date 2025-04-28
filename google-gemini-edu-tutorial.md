@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # 如何获取ASU教育邮箱和Gemini Advanced学生认证：完整指南
 
 ## 一、魔法网络（前提条件）
